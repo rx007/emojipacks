@@ -38,7 +38,7 @@
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.8.1",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "js-yaml": "^3.3.1",
     "request": "^2.60.0",
     "thunkify-wrap": "^1.0.4",
